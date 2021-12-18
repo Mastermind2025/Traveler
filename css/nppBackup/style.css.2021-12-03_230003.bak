@@ -1,0 +1,225 @@
+@font-face{
+	font-family:HelveticaNeueCyr;
+	src: url('../font/Roboto-Regular.ttf');
+}
+
+*{margin: 0; padding: 0; text-decoration: none;}
+body{
+	margin: 0;
+	padding: 0 15px;
+	background: gray;
+	padding-top: 4px;
+	box-sizing: border-box;
+	font: 12pt Tahoma, sans-serif;
+}
+a{ text-decoration: none;} img{border: 0;} h1, h2, h3{ margin: 0;}
+.flex{ display: flex; justify-content: center; }
+header.header{
+	display: none;
+}
+.avocado{
+	/*border: 1px dashed red;*/
+	height: 60px;
+	margin: 110px 23px 0px;
+	font-size: 14pt;
+	font-weight: bolder;
+	color: #25306c;
+}
+.section{
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	background: maroon;}
+	
+	.box{
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	/* background: maroon; */
+	padding: 353px 0 0;
+	}
+.logo_small{
+display: block;
+border: 1px dashed black;
+padding: 0px 5px;
+}
+section.background{
+	padding: 0 0 0;
+	background-image: url('../img/back_plane01.png');
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size: cover;
+	
+	/* margin: 10px 0 0; */
+}
+section.second{/*second block*/
+	background-image: url('../img/back_plane02.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: left;
+	display: flex;
+	flex-direction: column;
+	padding: 0px 0 40px;
+}	
+.bold_type{ font-weight: bold;}
+.block_href{
+	display: flex;
+	justify-content: space-between;
+}
+.expedia_box{
+	display: flex;
+	justify-content: center;
+	border: 1px dashed red;
+}
+.expedia{font-size: 48pt;padding: 3px;border: 1px solid red;}
+.yapra_box{
+	display: flex;
+	flex-direction: column;
+	border: 1px dashed olive;
+	padding: 3px;
+	font-size: 18pt;
+	vertical-align: center;
+}
+.yapra_box_small{
+	font-size: 23pt;
+	border: 1px dashed orange;
+	padding: 2px 0 0;
+}
+
+section.second h2,
+section.third h2
+
+
+{background: #1c2556;/* width: 95%; */color: white;padding: 14px 19px;margin: 5px 0 40px 0;}
+.back_cloud{
+	padding: 0 0px;
+}
+
+
+
+
+img.main_logo{
+	display: block;
+	border: 1px dashed red;
+	padding: 5px 5px;
+}
+	
+div.wrapper{
+	margin: 0 auto;
+	width: 87%;
+	max-width: 1205px;
+	/*height: 600px;*/
+	/* background: silver; */
+}
+.journeys{
+	color: white;
+	font: 12pt Roboto-Regular, sans-serif;
+	margin: 110px 0 0 0px;
+	padding: 16px 33px 12px 138px;
+	background: #041ca4;
+	height: 28px;
+	font-size: 16pt;
+}
+
+section.third h2{ background: olive; }
+/*media*/ /*media*/
+@media screen and (max-width: 1080px){
+div.wrapper{
+	width:100%;
+	/* border: 8px dashed red; */
+}	
+section.background{
+	background-image: url(../img/back_plane_middle.png);background-repeat: no-repeat;
+background-position: left;
+/* border: 4px dashed orange; */
+}
+/*.middle_type{font-size: 25pt;}*/
+img.main_logo{
+	display: none;
+}
+header.header{
+	width: 100%;
+	height: 58px;
+	background: #1a1a3c;
+	/*	background: red;*/
+	padding: 2px 0 0 10px;
+	box-sizing: border-box;
+	display: block;
+}
+.journeys{
+	color: white;
+	/* font: 12pt Roboto-Regular, sans-serif; */
+	/* margin: 110px 0 0 0px; */
+	padding: 20px 33px 10px 23px;
+	/* background: #041ca4; */
+	/* height: 28px; */
+	/* font-size: 16pt; */
+}
+.bold_type{ font-weight: bold;}
+.expedia{
+font-size: 30pt;
+padding: 5px;
+border: 1px solid red;
+}
+
+
+}
+@media screen and (max-width: 690px){
+	body{
+	margin: -5px 0;
+	padding: 0 15px;
+}
+div.wrapper{
+	/* width: 96%; */
+	padding: 10px;
+}	
+header.header{
+	width: 100%;
+	height: 58px;
+	background: #1a1a3c;
+	/*	background: red;*/
+	padding: 2px 0 0 10px;
+	box-sizing: border-box;
+	display: block;
+}
+img.main_logo{
+	display: none;
+}
+section.background{background-image: url(../img/back_plane_small.png);*/background-repeat: no-repeat;/* border: 4px dashed orange; */}
+.journeys{
+	color: white;
+	/* font: 12pt Roboto-Regular, sans-serif; */
+	margin: 110px 0 0 0px;
+	padding: 16px 10px 12px 11px;
+	/* background: #041ca4; */
+	/* height: 28px; */
+	/* font-size: 16pt; */
+	/* border: 2px dashed orange; */
+}
+.expedia{
+font-size: 32pt;
+padding: 5px;
+border: 1px solid red;
+}
+.yapra_box{
+	font-size: 26pt;
+	border: 1px dashed orange;
+	padding: 3px;
+	text-align: right;
+}
+.box{
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	/* background: maroon; */
+	padding: 180px 0 0;
+	}
+.small_type{font-size: 23pt;}
+section.second{/*second block*/
+	background-image: url('../img/back_plane02.png');
+	background-repeat: no-repeat;
+	background-size: 150%;
+	
+}	
+
+}

@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>title</title>
+	
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+<style type ='text/css'>
+</style>
+</head>
+
+<body>
+<div class='wrapper'>
+<header class='header'>
+	<img src='img/logo_small.png' alt='logo' width='200px' class='logo_small'>
+</header>
+
+<section class='background'>
+
+<a href='#' class=''>
+	<!--main logo -->
+		<img src='img/logo.png' alt='logo' width='200px' class='main_logo'>
+	</a>
+<!--	<img src='img/back_plane.png' width=''/>-->
+<div class='box'>
+	<a href='#' class='journeys'>EXCITING JOURNEYS...</a>
+	<p class='avocado'>
+	THE NEW TRAVEL TECHNIQUE</br>
+	BASED ON AVOCADO
+	</p>
+</div>
+</section>
+<!--background-->
+<section class='section second'>
+<h2>Most popular travel destinations</h2>
+	<div class='back_cloud'>
+				<div class='expedia_box'>
+			<a href='#'class='expedia bold_type'>EXPEDIA.COM</a>
+			<a href='#' class='yapra_box'>tripadvisor.com</a>
+				</div>
+				
+				<div class='expedia_box'>
+					<div class='yapra_box'>
+			<a href='#'>yapra.com</a>	
+			<a href='#'>lonelyplanet.com</a>
+					</div>
+					<div class=''>
+			<a href='#' class='expedia'>travelocity.com</a>
+					</div>
+				</div>
+				<div class='expedia_box'>
+			<a href='#' class='expedia bold_type'>priceline.com</a>	
+			<a href='#' class='expedia'>hotels.com</a>	
+				</div>
+				<div class='expedia_box'>
+			<a href='#' class='expedia'>orbits.com</a>	
+			<a href='#' class='expedia bold_type'>wiretrav.com</a>	
+				</div>
+				<div class='expedia_box'>
+			<a href='#' class='expedia small_type'>boats.com</a>	
+			<a href='#' class='yapra_box_small bold_type'>travelzoo.com</a>	
+			<a href='#' class='yapra_box_small'>starttravel.com</a>	
+				</div>
+			
+	</div>
+
+</section>
+<section class='section_box'>
+<div class='airplaines_box'>
+<h2>Airplanes, Trains and Buses</h2>
+<h2>Vacation destination</h2>
+</div>
+<!--airplaines_box-->
+<div class='green_box'>
+	
+	<div class='green_box_l'>
+<!--- --->
+	<div class='green_box_l_box'>
+		<a class=''><img src='img/pl.png' width='100'/></a>
+		<h3 class=''>20%</h3>	<p class=''>have used</br>  mobile apps</br>
+<b>to find</b></br>
+<b>flight</b></br>
+<b>deals</b></br>
+</p>
+	</div>
+	<!--box-->
+	<div class='green_box_l_box'>
+		<a class=''><img src='img/pl.png' width='100'/></a>
+		<h3 class=''>30%</h3>	<p class=''>have used</br>  mobile apps</br>
+<b>hotel</b></br>
+<b>deals</b></br>
+</p>
+	</div>
+	<!--box-->
+	<div class='green_box_l_box'>
+		<a class=''><img src='img/pl.png' width='100'/></a>
+		<h3 class=''>15%</h3>	<p class=''>have used</br>  mobile apps</br>
+<b>to find</b></br>
+<b>flight</b></br>
+<b>deals</b></br>
+</p>
+	</div>
+	
+	
+	
+	</div>
+	
+	<div class='green_box_l'>
+<div class='green_box_right'>
+	<div class='green_box_right'>box</div>
+	<div class='green_box_right'>
+			<div class='green_box_complex'>
+		<div class='green_box_right'>box text</div>
+		<div class='green_box_right'>box text</div>
+			</div>
+	</div>
+</div>
+<div class='green_box_right'>text </div>
+<div class='green_box_right'>text </div>
+	
+	
+	</div>
+</div>
+</div>
+</section>
+<!--section third-->
+</div>
+<!--wrapper-->
+
+</body>
+
+</html>
