@@ -15,7 +15,6 @@
 </header>
 
 <section class='background'>
-<h2></h2>
 
 <a href='#' class=''>
 	<!--main logo -->
@@ -104,7 +103,7 @@
 		<a href='#' class=' ' ><img src='img/fld.png' alt='' width='100'/></a>
 		<h3 class=' '>15%</h3>	<p class='text_small_01'>downloaded<br> <b>mobile apps</b><br>
 		specific to<br>upcoming<br>vacations<br></p>
-		<p class='text_small_02'>downloaded&nbsp;<b>mobile apps</b>
+		<p class='text_small_02'>downloaded&nbsp<b>mobile apps</b>
 		specific to upcoming vacations</p>
 	</div>
 	
@@ -125,7 +124,7 @@
 </div>
 	<!--build -->
 <div class='green_box_right'>
-	<a href='' class=''><img src='img/bld01.png' alt=' ' width='80'/></a>
+	<a href='' class=''><img src='img/bld01.png' width='80'/></a>
 	<div class=''>
 			<div class='green_box_complex'>
 		<div class='green_box_right_first'>Reviws activity attraction </div>
