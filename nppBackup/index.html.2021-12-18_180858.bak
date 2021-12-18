@@ -4,7 +4,7 @@
 	<title>title</title>
 	
 	<link rel="stylesheet" type="text/css" href="css/style.css" />
-<style>
+<style type ='text/css'>
 </style>
 </head>
 
@@ -100,8 +100,8 @@
 	</div>
 	
 	<div class='green_box_l_box'>
-		<a href='#' class=' ' ><img src='img/fld.png' alt='' width='100'/></a>
-		<h3 class=' '>15%</h3>	<p class='text_small_01'>downloaded<br> <b>mobile apps</b><br>
+		<a href='#" class='' ><img src='img/fld.png' alt='' width='100'/></a>
+		<h3 class=''>15%</h3>	<p class='text_small_01'>downloaded<br> <b>mobile apps</b><br>
 		specific to<br>upcoming<br>vacations<br></p>
 		<p class='text_small_02'>downloaded&nbsp<b>mobile apps</b>
 		specific to upcoming vacations</p>
@@ -114,7 +114,7 @@
 	
 	<div class='green_box_l'>
 <div class='green_box_right'>
-	<a href='' class=''><img src='img/bld01.png' alt=' ' width='80'/></a>
+	<a href='' class=''><img src='img/bld01.png' width='80'/></a>
 	<div class=''>
 			<div class='green_box_complex'>
 		<div class='green_box_right_first'>Read hotel reviews</div>
@@ -153,8 +153,7 @@
 </div>
 	</div>
 
-</div>
-<!--section_box -->
+
 
 
 </section>
