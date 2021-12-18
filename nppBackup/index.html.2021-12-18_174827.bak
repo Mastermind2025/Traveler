@@ -11,7 +11,7 @@
 <body>
 <div class='wrapper'>
 <header class='header'>
-	<img src='img/logo_small.png' alt='logo' width='200' class='logo_small'>
+	<img src='img/logo_small.png' alt='logo' width='200px' class='logo_small'>
 </header>
 
 <section class='background'>
@@ -20,11 +20,11 @@
 	<!--main logo -->
 		<img src='img/logo.png' alt='logo' width='200' class='main_logo'>
 	</a>
-<!--	<img src='img/back_plane.png' alt='' width=''/>-->
+<!--	<img src='img/back_plane.png' width=''/>-->
 <div class='box'>
 	<a href='#' class='journeys'>EXCITING JOURNEYS...</a>
 	<p class='avocado'>
-	THE NEW TRAVEL TECHNIQUE<br>
+	THE NEW TRAVEL TECHNIQUE</br>
 	BASED ON AVOCADO
 	</p>
 </div>
@@ -35,7 +35,7 @@
 <h2>Most popular travel destinations</h2>
 	<div class='back_cloud'>
 				<div class='expedia_box'>
-			<a href='#' class='expedia bold_type'>EXPEDIA.COM</a>
+			<a href='#'class='expedia bold_type'>EXPEDIA.COM</a>
 			<a href='#' class='yapra_box'>tripadvisor.com</a>
 				</div>
 				
@@ -78,11 +78,11 @@
 
 
 	<div class='green_box_l_box'>
-		<a href='#' class='' ><img src='img/pl.png' alt='' width='100'/></a>
-		<h3 class=''>20%</h3>	<p class='text_small_01'>have used<br>  mobile apps<br>
-<b>to find</b><br>
-<b>flight</b><br>
-<b>deals</b><br>
+		<a href='#" class=''><img src='img/pl.png' width='100'/></a>
+		<h3 class=''>20%</h3>	<p class='text_small_01'>have used</br>  mobile apps</br>
+<b>to find</b></br>
+<b>flight</b></br>
+<b>deals</b></br>
 </p>
 
 <p class='text_small_02'>have used  mobile apps <b>to find</b> <b>flight</b>
@@ -91,19 +91,19 @@
 	</div>
 	
 	<div class='green_box_l_box'>
-		<a href='#' class='' ><img src='img/bld.png' alt='' width='100'/></a>
-		<h3 class=''>30%</h3>	<p class='text_small_01'>have used<br>  mobile apps<br>
-<b>hotel</b><br>
-<b>deals</b><br>
+		<a href='#" class=''><img src='img/bld.png' width='100'/></a>
+		<h3 class=''>30%</h3>	<p class='text_small_01'>have used</br>  mobile apps</br>
+<b>hotel</b></br>
+<b>deals</b></br>
 </p>
 <p class='text_small_02'>have used  mobile apps <b>hotel</b> <b>deals</b>
 	</div>
 	
 	<div class='green_box_l_box'>
-		<a href='#" class='' ><img src='img/fld.png' alt='' width='100'/></a>
-		<h3 class=''>15%</h3>	<p class='text_small_01'>downloaded<br> <b>mobile apps</b><br>
-		specific to<br>upcoming<br>vacations<br></p>
-		<p class='text_small_02'>downloaded&nbsp<b>mobile apps</b>
+		<a href='#" class=''><img src='img/fld.png' width='100'/></a>
+		<h3 class=''>15%</h3>	<p class='text_small_01'>downloaded</br> <b>mobile apps</b></br>
+		specific to</br>upcoming</br>vacations</br></p>
+		<p class='text_small_02'>downloaded&nbsp <b>mobile apps</b>
 		specific to upcoming vacations</p>
 	</div>
 	
@@ -134,7 +134,7 @@
 </div>
 	<!--build -->
 <div class='green_box_right'>
-	<a href='a' class=''><img alt='' src='img/bld01.png' width='80'/></a>
+	<a href='a' class=''><img src='img/bld01.png' width='80'/></a>
 	<div class=''>
 			<div class='green_box_complex'>
 		<div class='green_box_right_first'>Restaurant reviews</div>
@@ -144,10 +144,10 @@
 </div>
 
 <div class='green_box_right'>
-	<a href='#' class=''><img class='baloon' alt='' src='img/bal.png'  width='250'/></a>
+	<a href='#' class=''><img class='baloon' src='img/bal.png'  width='250'/></a>
 	<div class=''>
 			<div class='green_box_complex'>
-				<img src='img/peop.png' alt='' class='people' width='300'/>
+				<img src='img/peop.png' class='people' width='300'/>
 			</div>
 	</div>
 </div>
@@ -165,17 +165,17 @@
 <section class='this_is_the_fourth'><!--section this is the fourth-->
 	<div class='box_with_finger'>
 		<div class='finger start_center'>
-			<div class='border_dash'><img class='' alt='' src='img/fin.png' width='70'/></div>
+			<div class='border_dash'><img class='' src='img/fin.png' width='70'/></div>
 			<h3 class='border_dash title_h3'>48%</h3>
-			<p class='border_dash text_p'>Users have liked the<br>
-			travel page on Facebook<br>
+			<p class='border_dash text_p'>Users have liked the</br>
+			travel page on Facebook</br>
 			in the last six months</p>
 		</div>
 		<div class='finger start_center'>
-			<div class='border_dash'><img class='pad' alt='' src='img/balg.png' width='70'/></div>
+			<div class='border_dash'><img class='pad'src='img/balg.png' width='70'/></div>
 			<h3 class='border_dash title_h3'>82%</h3>
-			<p class='border_dash text_p'>User posted updates to<br>
-			Facebook about new travels for<br>
+			<p class='border_dash text_p'>User posted updates to</br>
+			Facebook about new travels for</br>
 			the summer months</p>
 		</div>
 	</div>
