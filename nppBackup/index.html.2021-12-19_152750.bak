@@ -190,32 +190,20 @@
 	<nav class='palm_left'>
 		<h2 class='palm_left_title'>
 Top 5 Best Ways to Use Your Smartphone <br>
-For Your Favorite Travel</h2>
-		<ul class=''>
-			<li class='li_with_text_palm'>1. Take many photos</li>
-			<li class='li_with_text_palm'>2. Use google maps </li>
-			<li class='li_with_text_palm'>3. Looking for hotels and restaurants</li>
-			<li class='li_with_text_palm'>4. Looking for аny attractions</li>
-			<li class='li_with_text_palm'>5. Check in before departure</li>
-		</ul>
-	<h2 class='title_red'>	ALWAYS ONLINE ON THE WAY</h2>
-	</nav>
+For Your Favorite Travel
+
+
+		</h2>
+		
 	
-	<nav class='border block_foreign_tourist'>
-<h2 class='h2_tourists'>87%</h2>
-<p class='p_tourists border'>
-of foreign tourists<br>
-from Eastern Europe<br>
-use your smartphone<br>
-abroad<br>
-</p>
-	</nav>
+	text</nav>
+	<nav class='border'>right</nav>
 
 
 </section>
 
 
-<footer class='footer'>text</footer>
+
 
 </div>
 <!--wrapper-->

@@ -15,12 +15,13 @@
 </header>
 
 <section class='background'>
+<h2></h2>
 
 <a href='#' class=''>
 	<!--main logo -->
 		<img src='img/logo.png' alt='logo' width='200' class='main_logo'>
 	</a>
-<!--	<img src='img/back_plane.png' alt='' width=''>-->
+<!--	<img src='img/back_plane.png' alt='' width=''/>-->
 <div class='box'>
 	<a href='#' class='journeys'>EXCITING JOURNEYS...</a>
 	<p class='avocado'>
@@ -78,7 +79,7 @@
 
 
 	<div class='green_box_l_box'>
-		<a href='#' class='' ><img src='img/pl.png' alt='' width='100'></a>
+		<a href='#' class='' ><img src='img/pl.png' alt='' width='100'/></a>
 		<h3 class=''>20%</h3>	<p class='text_small_01'>have used<br>  mobile apps<br>
 <b>to find</b><br>
 <b>flight</b><br>
@@ -91,7 +92,7 @@
 	</div>
 	
 	<div class='green_box_l_box'>
-		<a href='#' class='' ><img src='img/bld.png' alt='' width='100'></a>
+		<a href='#' class='' ><img src='img/bld.png' alt='' width='100'/></a>
 		<h3 class=''>30%</h3>	<p class='text_small_01'>have used<br>  mobile apps<br>
 <b>hotel</b><br>
 <b>deals</b><br>
@@ -100,7 +101,7 @@
 	</div>
 	
 	<div class='green_box_l_box'>
-		<a href='#' class=' ' ><img src='img/fld.png' alt='' width='100'></a>
+		<a href='#' class=' ' ><img src='img/fld.png' alt='' width='100'/></a>
 		<h3 class=' '>15%</h3>	<p class='text_small_01'>downloaded<br> <b>mobile apps</b><br>
 		specific to<br>upcoming<br>vacations<br></p>
 		<p class='text_small_02'>downloaded&nbsp;<b>mobile apps</b>
@@ -114,7 +115,7 @@
 	
 	<div class='green_box_l'>
 <div class='green_box_right'>
-	<a href='' class=''><img src='img/bld01.png' alt=' ' width='80'></a>
+	<a href='' class=''><img src='img/bld01.png' alt=' ' width='80'/></a>
 	<div class=''>
 			<div class='green_box_complex'>
 		<div class='green_box_right_first'>Read hotel reviews</div>
@@ -124,7 +125,7 @@
 </div>
 	<!--build -->
 <div class='green_box_right'>
-	<a href='' class=''><img src='img/bld01.png' alt=' ' width='80'></a>
+	<a href='' class=''><img src='img/bld01.png' alt=' ' width='80'/></a>
 	<div class=''>
 			<div class='green_box_complex'>
 		<div class='green_box_right_first'>Reviws activity attraction </div>
@@ -134,7 +135,7 @@
 </div>
 	<!--build -->
 <div class='green_box_right'>
-	<a href='a' class=''><img alt='' src='img/bld01.png' width='80'></a>
+	<a href='a' class=''><img alt='' src='img/bld01.png' width='80'/></a>
 	<div class=''>
 			<div class='green_box_complex'>
 		<div class='green_box_right_first'>Restaurant reviews</div>
@@ -144,10 +145,10 @@
 </div>
 
 <div class='green_box_right'>
-	<a href='#' class=''><img class='baloon' alt='' src='img/bal.png'  width='250'></a>
+	<a href='#' class=''><img class='baloon' alt='' src='img/bal.png'  width='250'/></a>
 	<div class=''>
 			<div class='green_box_complex'>
-				<img src='img/peop.png' alt='' class='people' width='300'>
+				<img src='img/peop.png' alt='' class='people' width='300'/>
 			</div>
 	</div>
 </div>
@@ -166,14 +167,14 @@
 <section class='this_is_the_fourth'><!--section this is the fourth-->
 	<div class='box_with_finger'>
 		<div class='finger start_center'>
-			<div class='border_dash'><img class='' alt='' src='img/fin.png' width='70'></div>
+			<div class='border_dash'><img class='' alt='' src='img/fin.png' width='70'/></div>
 			<h3 class='border_dash title_h3'>48%</h3>
 			<p class='border_dash text_p'>Users have liked the<br>
 			travel page on Facebook<br>
 			in the last six months</p>
 		</div>
 		<div class='finger start_center'>
-			<div class='border_dash'><img class='pad' alt='' src='img/balg.png' width='70'></div>
+			<div class='border_dash'><img class='pad' alt='' src='img/balg.png' width='70'/></div>
 			<h3 class='border_dash title_h3'>82%</h3>
 			<p class='border_dash text_p'>User posted updates to<br>
 			Facebook about new travels for<br>
@@ -186,36 +187,9 @@
 </section>
 <!--end section this is the fourth-->
 
-<section class='section_with_palm start_flex'>
-	<nav class='palm_left'>
-		<h2 class='palm_left_title'>
-Top 5 Best Ways to Use Your Smartphone <br>
-For Your Favorite Travel</h2>
-		<ul class=''>
-			<li class='li_with_text_palm'>1. Take many photos</li>
-			<li class='li_with_text_palm'>2. Use google maps </li>
-			<li class='li_with_text_palm'>3. Looking for hotels and restaurants</li>
-			<li class='li_with_text_palm'>4. Looking for аny attractions</li>
-			<li class='li_with_text_palm'>5. Check in before departure</li>
-		</ul>
-	<h2 class='title_red'>	ALWAYS ONLINE ON THE WAY</h2>
-	</nav>
-	
-	<nav class='border block_foreign_tourist'>
-<h2 class='h2_tourists'>87%</h2>
-<p class='p_tourists border'>
-of foreign tourists<br>
-from Eastern Europe<br>
-use your smartphone<br>
-abroad<br>
-</p>
-	</nav>
 
 
-</section>
 
-
-<footer class='footer'>text</footer>
 
 </div>
 <!--wrapper-->

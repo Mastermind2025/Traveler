@@ -232,8 +232,8 @@ div.box_with_finger{
 	background-position: 67% -3%;
 	width: 567px;
 	}
-.p_tourists{margin: 5px 0 0 145px;font-size: 19pt;}
-.h2_tourists{margin: 47px 0 0 144px;font-size: 41pt;}
+.p_tourists{margin: 77px 145px;font-size: 19pt;}
+.h2_tourists{ }
 
 /*
 1080px

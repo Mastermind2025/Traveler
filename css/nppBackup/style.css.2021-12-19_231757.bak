@@ -218,22 +218,8 @@ div.box_with_finger{
 	background-size: cover;
 	height: 600px;
 	}
-.palm_left_title{ color: white; background: maroon; padding: 15px 25px; margin-left: 15px;}	
+	h2.title_red
 
-.li_with_text_palm{font-size: 24pt;padding: 7px 0 7px 31px;}
-
-.block_foreign_tourist{
-	background-image: url('../img/red.png');
-	background-repeat: no-repeat;
-	background-size: 107%;
-	font-size: 16pt;
-	padding: 10px 12px 0 45px;
-	color: #ffff;
-	background-position: 67% -3%;
-	width: 567px;
-	}
-.p_tourists{margin: 5px 0 0 145px;font-size: 19pt;}
-.h2_tourists{margin: 47px 0 0 144px;font-size: 41pt;}
 
 /*
 1080px

@@ -198,24 +198,21 @@ For Your Favorite Travel</h2>
 			<li class='li_with_text_palm'>4. Looking for аny attractions</li>
 			<li class='li_with_text_palm'>5. Check in before departure</li>
 		</ul>
-	<h2 class='title_red'>	ALWAYS ONLINE ON THE WAY</h2>
+	<h2>	Always online on the way </h2>
 	</nav>
 	
-	<nav class='border block_foreign_tourist'>
-<h2 class='h2_tourists'>87%</h2>
-<p class='p_tourists border'>
+	<nav class='border'>
+<h2>87%</h2>
 of foreign tourists<br>
 from Eastern Europe<br>
-use your smartphone<br>
-abroad<br>
-</p>
+use your smartphone abroad<br>
 	</nav>
 
 
 </section>
 
 
-<footer class='footer'>text</footer>
+
 
 </div>
 <!--wrapper-->
