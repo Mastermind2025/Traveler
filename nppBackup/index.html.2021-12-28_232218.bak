@@ -193,7 +193,7 @@ Top 5 Best Ways to Use Your Smartphone <br>
 For Your Favorite Travel</h2>
 		<ul class='ul_Travel'>
 			<li class='li_with_text_palm'>1. Take many photos</li>
-			<li class='li_with_text_palm'>2. Use Google Maps </li>
+			<li class='li_with_text_palm'>2. Use google maps </li>
 			<li class='li_with_text_palm'>3. Looking for hotels and restaurants</li>
 			<li class='li_with_text_palm'>4. Looking for аny attractions</li>
 			<li class='li_with_text_palm'>5. Check in before departure</li>
@@ -215,71 +215,32 @@ abroad<br>
 <section class='section_with_buildings'>
 	<div class='box_transparent'>
 	<ul class='block_74_45_80 start_flex border'>
-		<li class='border red_image'><img class='' alt='' src='img/card.png' width='90'></li>
-		<li class='border persent'><h2>74%</h2></li>
-		<li class='border item_buildings flex_text'>Post awesome vacation photos to social media like<br>
-		Facebook, Instagram, Twitter
-		</li>
+		<li class='border'>pic</li>
+		<li class='border'>74%</li>
+		<li class='border'>Post awesome vacation photos to social media like Facebook</li>
 	</ul>
 	
 	<ul class='block_74_45_80 start_flex border'>
-		<li class='border red_image_02'><img class='' alt='' src='img/point.png' width='50'></li>
-		<li class='border persent'><h2>45%</h2></li>
-		<li class='border item_buildings flex_text'>Check in of their location for example, on<br>
-		Facebook or FourSquare during their journey</li>
+		<li class='border'>pic</li>
+		<li class='border'>45%</li>
+		<li class='border'>Check in of their location for example, on Facebook or<br>
+		FourSquare during their journey</li>
 	</ul>
 
 	<ul class='block_74_45_80 start_flex border'>
-		<li class='border red_image_03'><img class='' alt='' src='img/baloon_red.png' width='60'></li>
-		<li class='border persent'><h2>80%</h2></li>
-		<li class='border item_buildings flex_text'>Update their Facebook status while traveling</li>
+		<li class='border'>pic</li>
+		<li class='border'>80%</li>
+		<li class='border'>Update their Facebook status while traveling</li>
 	</ul>
 	</div>
-	<!-- -->
+	
 <h2 class='title_green'>AFTER TRAVELING</h2>
 <h3 class='title_reviews'>Reviews from Rearview Mirror</h3>
 
 </section>
 
-<section class='comp flex_text'>
-	<div class='comp_monitor flex'>
-		<ul class=''>
-			<li class='persent'>47%</li>
-			<li class='persent'>of post hotel reviews</li>
-		</ul>
-		<ul class=''>
-			<li class='persent'>56%</li>
-			<li class='persent'>of post hotel reviews</li>
-		</ul>
-		
-		<ul class=''>
-			<li class='persent'>60%</li>
-			<li class='persent'>of post hotel reviews</li>
-		</ul>
-	</div>
-<h3 class='title_reviews'>Reviews on social networks</h3>
-	<div class='comp_monitor flex'>
-		<ul class=''>
-			<li class='persent'>47%</li>
-			<li class='persent'>of post hotel reviews</li>
-		</ul>
-		<ul class=''>
-			<li class='persent'>56%</li>
-			<li class='persent'>of post hotel reviews</li>
-		</ul>
-		
-		<ul class=''>
-			<li class='persent'>60%</li>
-			<li class='persent'>of post hotel reviews</li>
-		</ul>
-	</div>
-</section>
 
-<section class='tree'>
-</section>
-
-
-<footer class='footer'>footer</footer>
+<footer class='footer'>text</footer>
 
 </div>
 <!--wrapper-->

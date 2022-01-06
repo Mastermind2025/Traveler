@@ -235,14 +235,14 @@ abroad<br>
 		<li class='border item_buildings flex_text'>Update their Facebook status while traveling</li>
 	</ul>
 	</div>
-	<!-- -->
+	
 <h2 class='title_green'>AFTER TRAVELING</h2>
 <h3 class='title_reviews'>Reviews from Rearview Mirror</h3>
 
 </section>
 
-<section class='comp flex_text'>
-	<div class='comp_monitor flex'>
+<section class='comp'>
+	<div class='flex'>
 		<ul class=''>
 			<li class='persent'>47%</li>
 			<li class='persent'>of post hotel reviews</li>
@@ -256,30 +256,17 @@ abroad<br>
 			<li class='persent'>60%</li>
 			<li class='persent'>of post hotel reviews</li>
 		</ul>
+		
 	</div>
 <h3 class='title_reviews'>Reviews on social networks</h3>
-	<div class='comp_monitor flex'>
-		<ul class=''>
-			<li class='persent'>47%</li>
-			<li class='persent'>of post hotel reviews</li>
-		</ul>
-		<ul class=''>
-			<li class='persent'>56%</li>
-			<li class='persent'>of post hotel reviews</li>
-		</ul>
-		
-		<ul class=''>
-			<li class='persent'>60%</li>
-			<li class='persent'>of post hotel reviews</li>
-		</ul>
-	</div>
+
 </section>
 
 <section class='tree'>
 </section>
 
 
-<footer class='footer'>footer</footer>
+<footer class='footer'>text</footer>
 
 </div>
 <!--wrapper-->

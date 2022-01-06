@@ -284,15 +284,14 @@ h2.title_red {
 }
 .flex_text{ display: flex; justify-content: center; flex-direction: column; flex-wrap: wrap; 
 align-items: center; }
-
-div.box_transparent{
+}
+div.box_ku_ku_ku{
 border: 6px olive dashed;
 width: 77%;
 padding: 15px;
 background: #fcfbfba1;
 padding: 17px 21px;
-margin: 9px 0 31px 0;
-}
+margin: 9px 0 31px 0;}
 
 .item_buildings{font-size: 22pt;padding: 0 0 0 16px;}
 .persent{ font-size: 16pt; display: flex; justify-content: center; flex-direction: column; flex-wrap: wrap;}
