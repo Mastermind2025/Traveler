@@ -297,11 +297,11 @@ abroad<br>
 						network</p></li>
 		</ul>
 		
-		<div class='comp_monitor_02_finger'>
+		<ul class='comp_monitor_02_finger'>
 			<!-- Finger -->
 			<img class='finger' alt='' src='img/fin.png' width='100'>
 			
-		</div>
+		</ul>
 		
 		<ul class='comp_monitor_02_finger silver_box'>
 			<li class='persent'><p class='comp_persent_green '>60%</p></li>

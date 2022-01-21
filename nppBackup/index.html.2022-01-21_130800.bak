@@ -15,12 +15,12 @@
 </header>
 
 <section class='background'>
-	<h2>
+	<h2>Title</h2>
+
 <a href='#' class=''>
 	<!--main logo -->
 		<img src='img/logo.png' alt='logo' width='200' class='main_logo'>
 	</a>
-	</h2>
 <!--	<img src='img/back_plane.png' alt='' width=''>-->
 <div class='box'>
 	<a href='#' class='journeys'>EXCITING JOURNEYS...</a>
@@ -188,7 +188,6 @@
 <!--end section this is the fourth-->
 
 <section class='section_with_palm'>
-	<h2>Title</h2>
 	<nav class='palm_left'>
 		<h2 class='palm_left_title'>
 Top 5 Best Ways to Use Your Smartphone <br>
@@ -247,8 +246,8 @@ abroad<br>
 
 <section class='comp flex_text'>
 	<div class='comp_monitor flex'>
-		<div class=''>
-			<div class='persent'>
+		<ul class=''>
+			<li class='persent'>
 				<div class='baloon_pers_01 baloon_left' >
 					<p class='comp_persent'>46%</p>
 					<div class='star'>&#9733; &#9733; &#9733; &#9733;</div>
@@ -256,29 +255,29 @@ abroad<br>
 				
 				</div>
 				
-			</div>
+			</li>
 			
-		</div>
+		</ul>
 		<ul class=''>
 			<li class='persent'><img class='man' alt='' src='img/man.png' width='148'></li>
 			
 		</ul>
 		
-		<div class=''>
+		<ul class=''>
 			<div class='baloon_pers_02 baloon_left' >
 					<p class='comp_persent'>72%</p>
 					<div class='star'>&#9733; &#9733; &#9733; &#9733;</div>
 					<p class='comp_p'>post activity<br> attraction reviews</p>
 			</div>
-		</div>
+		</ul>
 		
-		<div class=''>
+		<ul class=''>
 			<div class='baloon_pers_02 baloon_left' >
 					<p class='comp_persent'>83%</p>
 					<div class='star'>&#9733; &#9733; &#9733; &#9733;</div>
 					<p class='comp_p'>post restaurant<br>reviews</p>
 			</div>
-		</div>
+		</ul>
 		
 	</div>
 <h3 class='title_reviews'>Reviews on social networks</h3>
@@ -297,11 +296,11 @@ abroad<br>
 						network</p></li>
 		</ul>
 		
-		<div class='comp_monitor_02_finger'>
+		<ul class='comp_monitor_02_finger'>
 			<!-- Finger -->
 			<img class='finger' alt='' src='img/fin.png' width='100'>
 			
-		</div>
+		</ul>
 		
 		<ul class='comp_monitor_02_finger silver_box'>
 			<li class='persent'><p class='comp_persent_green '>60%</p></li>
