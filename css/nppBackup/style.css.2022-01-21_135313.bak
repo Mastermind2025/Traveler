@@ -432,22 +432,28 @@ h3.title_reviews_three{
     font: 17pt Roboto-Regular, sans-serif;
     width: 100%;
 }
-h2.title_ection_with_palm{ display: none; }
-h2.title_keyboard{ display: none; }
+.title_ection_with_palm{ display: none; }
+.title_keyboard{ display: none; }
 /*
 1080px
-
+1080px
+1080px
+1080px
+1080px
+1080px
+1080px
 
 
 
 
 */
 
-
+/*media*/ /*media*/
 @media screen and (max-width: 1080px){
 div.wrapper{
 	width:100%;
-	}	
+	/* border: 8px dashed red; */
+}	
 .persent{font-size: 15pt;}
 p.comp_persent_green {color: #96df41;font-size: 30pt;}
 div.green_box_l{flex: 0 1 calc(44% - 30px/2);padding: 13px 9px 1px 0;/* border: 4px dashed olive; */display: flex;flex-direction: column;/* background: orange; */box-sizing: border-box;}
@@ -580,8 +586,7 @@ padding: 1px 184px 1px 0;
 	margin: -5px 0;
 	padding: 0 15px;
 }
-div.green_box_l{flex: 0 1 calc(100% - 30px/2);padding: 19px 39px 17px 0;display: flex;
-flex-direction: column; box-sizing: border-box;}
+div.green_box_l{flex: 0 1 calc(100% - 30px/2);padding: 19px 39px 17px 0;/* border: 10px dashed olive; */display: flex;flex-direction: column;/* background: #93c2e8; */box-sizing: border-box;}
 div.wrapper{
 	padding: 10px;
 }	
