@@ -432,7 +432,7 @@ h3.title_reviews_three{
     font: 17pt Roboto-Regular, sans-serif;
     width: 100%;
 }
-h2.title_section_with_palm{ display: none; }
+h2.title_ection_with_palm{ display: none; }
 h2.title_keyboard{ display: none; }
 /*
 1080px
@@ -474,7 +474,7 @@ header.header{
 	/* font-size: 16pt; */
 }
 .bold_type{ font-weight: bold;}
-.expedia{font-size: 30pt;}
+.expedia{font-size: 30pt;/* padding: 0 0; *//* border: 1px solid red; */}
 .airplaines_box h2{background: #1c2556;padding: 14px 14px;margin: 5px 0;box-sizing: border-box;}
 
 
@@ -604,7 +604,7 @@ background-repeat: no-repeat;}
 	padding: 16px 10px 12px 11px;
 	
 }
-.expedia{font-size: 32pt;padding: 5px;}
+.expedia{font-size: 32pt;padding: 5px;/* border: 1px solid red; */}
 .yapra_box{
 	font-size: 26pt;
 	padding: 3px;
