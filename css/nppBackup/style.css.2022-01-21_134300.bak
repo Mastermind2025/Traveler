@@ -433,8 +433,6 @@ h3.title_reviews_three{
     font: 17pt Roboto-Regular, sans-serif;
     width: 100%;
 }
-.title_ection_with_palm{ display: none; }
-.title_keyboard{ display: none; }
 /*
 1080px
 1080px

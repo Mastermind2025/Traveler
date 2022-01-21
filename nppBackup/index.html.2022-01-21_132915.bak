@@ -188,7 +188,7 @@
 <!--end section this is the fourth-->
 
 <section class='section_with_palm'>
-	<h2 class='title_ection_with_palm'>Title</h2>
+	<h2>Title</h2>
 	<nav class='palm_left'>
 		<h2 class='palm_left_title'>
 Top 5 Best Ways to Use Your Smartphone <br>
@@ -283,13 +283,13 @@ abroad<br>
 	</div>
 <h3 class='title_reviews'>Reviews on social networks</h3>
 	<div class='comp_monitor_02'>
-		<div class='comp_monitor_02_finger'>
+		<ul class='comp_monitor_02_finger'>
 			<div class='flex_text' >
 					<!--camera-->
 				<img class='camera_green' alt='' src='img/card_g.png' width='170'>
 				<button data-modal-open type='button' class='button'>UPLOAD</button>
 			</div>
-		</div>
+		</ul>
 		<ul class='comp_monitor_02_finger silver_box'>
 			<li class='persent'><p class='comp_persent_green'>56%</p></li>
 			<li class='persent'><p class='comp_p'>posted vacation<br>
@@ -319,7 +319,7 @@ abroad<br>
 <h3 class='title_reviews_three'>The most interesting sights</h3>
 
 <section class='keyboard'>
-	<h2 class='title_keyboard'>keyboard</h2>
+	<h2>text</h2>
 	<!--	<div class='tree_palm'></div>-->
 </section>
 
