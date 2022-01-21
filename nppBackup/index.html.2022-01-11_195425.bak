@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>title</title>
+	
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+<style>
+</style>
+</head>
+
+<body>
+<div class='wrapper'>
+<header class='header'>
+	<img src='img/logo_small.png' alt='logo' width='200' class='logo_small'>
+</header>
+
+<section class='background'>
+
+<a href='#' class=''>
+	<!--main logo -->
+		<img src='img/logo.png' alt='logo' width='200' class='main_logo'>
+	</a>
+<!--	<img src='img/back_plane.png' alt='' width=''>-->
+<div class='box'>
+	<a href='#' class='journeys'>EXCITING JOURNEYS...</a>
+	<p class='avocado'>
+	THE NEW TRAVEL TECHNIQUE<br>
+	BASED ON AVOCADO
+	</p>
+</div>
+</section>
+<!--background-->
+<section class='section second'>
+
+<h2>Most popular travel destinations</h2>
+	<div class='back_cloud'>
+				<div class='expedia_box'>
+			<a href='#' class='expedia bold_type color_01'>EXPEDIA.COM</a>
+			<a href='#' class='yapra_box color_04'>tripadvisor.com</a>
+				</div>
+				
+				<div class='expedia_box'>
+					<div class='yapra_box'>
+			<a href='#'>yapra.com</a>	
+			<a href='#'>lonelyplanet.com</a>
+					</div>
+					<div class=''>
+			<a href='#' class='expedia color_02'>travelocity.com</a>
+					</div>
+				</div>
+				<div class='expedia_box'>
+			<a href='#' class='expedia bold_type color_03'>priceline.com</a>	
+			<a href='#' class='expedia'>hotels.com</a>	
+				</div>
+				<div class='expedia_box'>
+			<a href='#' class='expedia'>orbits.com</a>	
+			<a href='#' class='expedia bold_type color_05'>wiretrav.com</a>	
+				</div>
+				<div class='expedia_box'>
+			<a href='#' class='expedia small_type'>boats.com</a>	
+			<a href='#' class='yapra_box_small bold_type'>travelzoo.com</a>	
+			<a href='#' class='yapra_box_small'>starttravel.com</a>	
+				</div>
+			
+	</div>
+
+</section>
+
+<section class='section_box'>
+<div class='airplaines_box'>
+<h2>Airplanes, Trains and Buses</h2>
+<h2>Vacation destination</h2>
+</div>
+<!--airplaines_box-->
+<div class='green_box'>
+	
+	<div class='green_box_l'>
+
+
+	<div class='green_box_l_box'>
+		<a href='#' class='' ><img src='img/pl.png' alt='' width='100'></a>
+		<h3 class=''>20%</h3>	<p class='text_small_01'>have used<br>  mobile apps<br>
+<b>to find</b><br>
+<b>flight</b><br>
+<b>deals</b><br>
+</p>
+
+<p class='text_small_02'>have used  mobile apps <b>to find</b> <b>flight</b>
+<b>deals</b>
+</p>
+	</div>
+	
+	<div class='green_box_l_box'>
+		<a href='#' class='' ><img src='img/bld.png' alt='' width='100'></a>
+		<h3 class=''>30%</h3>	<p class='text_small_01'>have used<br>  mobile apps<br>
+<b>hotel</b><br>
+<b>deals</b><br>
+</p>
+<p class='text_small_02'>have used  mobile apps <b>hotel</b> <b>deals</b>
+	</div>
+	
+	<div class='green_box_l_box'>
+		<a href='#' class=' ' ><img src='img/fld.png' alt='' width='100'></a>
+		<h3 class=' '>15%</h3>	<p class='text_small_01'>downloaded<br> <b>mobile apps</b><br>
+		specific to<br>upcoming<br>vacations<br></p>
+		<p class='text_small_02'>downloaded&nbsp;<b>mobile apps</b>
+		specific to upcoming vacations</p>
+	</div>
+	
+	</div>
+	
+	
+	
+	
+	<div class='green_box_l'>
+<div class='green_box_right'>
+	<a href='' class=''><img src='img/bld01.png' alt=' ' width='80'></a>
+	<div class=''>
+			<div class='green_box_complex'>
+		<div class='green_box_right_first'>Read hotel reviews</div>
+		<div class='green_box_right_second'><b>75%</b></div>
+			</div>
+	</div>
+</div>
+	<!--build -->
+<div class='green_box_right'>
+	<a href='' class=''><img src='img/bld01.png' alt=' ' width='80'></a>
+	<div class=''>
+			<div class='green_box_complex'>
+		<div class='green_box_right_first'>Reviws activity attraction </div>
+		<div class='green_box_right_second'><b>64%</b></div>
+			</div>
+	</div>
+</div>
+	<!--build -->
+<div class='green_box_right'>
+	<a href='a' class=''><img alt='' src='img/bld01.png' width='80'></a>
+	<div class=''>
+			<div class='green_box_complex'>
+		<div class='green_box_right_first'>Restaurant reviews</div>
+		<div class='green_box_right_second'><b>45%</b></div>
+			</div>
+	</div>
+</div>
+
+<div class='green_box_right'>
+	<a href='#' class=''><img class='baloon' alt='' src='img/bal.png'  width='250'></a>
+	<div class=''>
+			<div class='green_box_complex'>
+				<img src='img/peop.png' alt='' class='people' width='300'>
+			</div>
+	</div>
+</div>
+	</div>
+
+</div>
+<!--section_box -->
+
+
+</section>
+<!--end section third-->
+<div class='start_flex baDckground_light_blue'>
+<h2 class='inspect'>Inspect social media after swimming</h2>
+</div>
+
+<section class='this_is_the_fourth'><!--section this is the fourth-->
+	<div class='box_with_finger'>
+		<div class='finger start_center'>
+			<div class='border_dash'><img class='' alt='' src='img/fin.png' width='70'></div>
+			<h3 class='border_dash title_h3'>48%</h3>
+			<p class='border_dash text_p'>Users have liked the<br>
+			travel page on Facebook<br>
+			in the last six months</p>
+		</div>
+		<div class='finger start_center'>
+			<div class='border_dash'><img class='pad' alt='' src='img/balg.png' width='70'></div>
+			<h3 class='border_dash title_h3'>82%</h3>
+			<p class='border_dash text_p'>User posted updates to<br>
+			Facebook about new travels for<br>
+			the summer months</p>
+		</div>
+	</div>
+<div class='start_flex'>
+<h2 class='title_red'>LONG AND EXCITING JOURNEYS</h2>
+</div>
+</section>
+<!--end section this is the fourth-->
+
+<section class='section_with_palm'>
+	<nav class='palm_left'>
+		<h2 class='palm_left_title'>
+Top 5 Best Ways to Use Your Smartphone <br>
+For Your Favorite Travel</h2>
+		<ul class='ul_Travel'>
+			<li class='li_with_text_palm'>1. Take many photos</li>
+			<li class='li_with_text_palm'>2. Use Google Maps </li>
+			<li class='li_with_text_palm'>3. Looking for hotels and restaurants</li>
+			<li class='li_with_text_palm'>4. Looking for аny attractions</li>
+			<li class='li_with_text_palm'>5. Check in before departure</li>
+		</ul>
+	<h2 class='title_red margin_top'>	ALWAYS ONLINE ON THE WAY</h2>
+	</nav>
+	
+	<nav class='border block_foreign_tourist'>
+<h2 class='h2_tourists'>87%</h2>
+<p class='p_tourists border'>
+of foreign tourists<br>
+from Eastern Europe<br>
+use your smartphone<br>
+abroad<br>
+</p>
+<div class='tree_palm'></div>
+
+	</nav>
+</section>
+<!--section_with_palm-->
+<section class='section_with_buildings'>
+	<div class='box_transparent'>
+	<ul class='block_74_45_80 start_flex border'>
+		<li class='border red_image'><img class='' alt='' src='img/card.png' width='90'></li>
+		<li class='border persent'><h2>74%</h2></li>
+		<li class='border item_buildings flex_text'>Post awesome vacation photos to social media like<br>
+		Facebook, Instagram, Twitter
+		</li>
+	</ul>
+	
+	<ul class='block_74_45_80 start_flex border'>
+		<li class='border red_image_02'><img class='' alt='' src='img/point.png' width='50'></li>
+		<li class='border persent'><h2>45%</h2></li>
+		<li class='border item_buildings flex_text'>Check in of their location for example, on<br>
+		Facebook or FourSquare during their journey</li>
+	</ul>
+
+	<ul class='block_74_45_80 start_flex border'>
+		<li class='border red_image_03'><img class='' alt='' src='img/baloon_red.png' width='60'></li>
+		<li class='border persent'><h2>80%</h2></li>
+		<li class='border item_buildings flex_text'>Update their Facebook status while traveling</li>
+	</ul>
+	</div>
+	<!-- -->
+<h2 class='title_green'>AFTER TRAVELING</h2>
+<h3 class='title_reviews'>Reviews from Rearview Mirror</h3>
+
+</section>
+
+<section class='comp flex_text'>
+	<div class='comp_monitor flex'>
+		<ul class=''>
+			<li class='persent'>
+				<div class='baloon_pers_01' >
+					<p class='comp_persent'>46%</p>
+					<div class='star'>&#9733; &#9733; &#9733; &#9733;</div>
+					<p class='comp_p'>post hotel<br>reviews</p>
+				
+				</div>
+				
+			</li>
+			
+		</ul>
+		<ul class=''>
+			<li class='persent'><img class='man' alt='' src='img/man.png' width='148'></li>
+			
+		</ul>
+		
+		<ul class=''>
+			<div class='baloon_pers_02 baloon_left' >
+					<p class='comp_persent'>72%</p>
+					<div class='star'>&#9733; &#9733; &#9733; &#9733;</div>
+					<p class='comp_p'>post activity<br> attraction reviews</p>
+			</div>
+		</ul>
+		
+		<ul class=''>
+			<div class='baloon_pers_02 baloon_left' >
+					<p class='comp_persent'>83%</p>
+					<div class='star'>&#9733; &#9733; &#9733; &#9733;</div>
+					<p class='comp_p'>post restaurant reviews</p>
+			</div>
+		</ul>
+		
+	</div>
+<h3 class='title_reviews'>Reviews on social networks</h3>
+	<div class='comp_monitor_02 flex'>
+		<ul class=''>
+			<div class='' >
+					<!--camera-->
+				<img class='' alt='' src='img/card.png' width='90'>
+			</div>
+		</ul>
+		<ul class=''>
+			<li class='persent'>56%</li>
+			<li class='persent'><p class='comp_p'>posted vacation<br>
+						photos to a social<br>
+						network</p></li>
+		</ul>
+		
+		<ul class=''>
+			<!-- Finger -->
+			<img class='' alt='' src='img/fin.png' width='70'>
+		</ul>
+		
+		<ul class=''>
+			<li class='persent'>50%</li>
+			<li class='persent'>of post hotel reviews</li>
+		</ul>
+	</div>
+</section>
+
+<section class=''>
+	<!--	<div class='tree_palm'></div>-->
+</section>
+
+
+<footer class='footer'>footer</footer>
+
+</div>
+<!--wrapper-->
+
+</body>
+
+</html>
