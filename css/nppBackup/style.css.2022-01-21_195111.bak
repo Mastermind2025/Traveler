@@ -434,7 +434,6 @@ h3.title_reviews_three{
 }
 h2.title_section_with_palm{ display: none; }
 h2.title_keyboard{ display: none; }
-.top_mar{margin-top: 2px;}
 /*
 1080px
 
@@ -571,7 +570,6 @@ background-size: 100%;
 padding: 1px 184px 1px 0;
 	}
 .pad02{padding: 0px 0 0 10px;}	
-.top_mar{margin-top: 10px;}
 	
 
 }
