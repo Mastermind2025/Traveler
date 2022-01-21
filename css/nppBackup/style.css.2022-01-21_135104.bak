@@ -681,7 +681,7 @@ section.section_with_palm{
     font: 17pt Roboto-Regular, sans-serif;
     width: 70%;
 }
-.comp_monitor{	margin: 25px 240px 13px 1px;}
+.comp_monitor{margin: 25px 240px 13px 1px;}
 
 section.comp{
 background-image: url('../img/comp03.png');
