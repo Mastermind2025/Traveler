@@ -12,13 +12,6 @@
 <div class='wrapper'>
 <header class='header'>
 	<img src='img/logo_small.png' alt='logo' width='200' class='logo_small'>
-<!--
-<h2 class='title_movement_people'>
-Movement of people between distant geographical locations.<br>
-Travel can be done by automobile, train, boat, bus, airplane, ship<br>
-or other means, with or without luggage.
-</h2>
--->
 </header>
 
 <section class='background'>
@@ -28,22 +21,6 @@ or other means, with or without luggage.
 		<img src='img/logo.png' alt='logo' width='200' class='main_logo'>
 	</a>
 	</h2>
-
-<h2 class='title_movement_people'>
-Movement of people between distant geographical locations.<br>
-Travel can be done by automobile, train, boat, bus, airplane, ship<br>
-or other means, with or without luggage.
-</h2>
-
-<!--
-	<p>
-	Lorem ipsum — классический текст-«рыба».<br>
-	Является искажённым отрывком из философского трактата<br>
-	Марка Туллия Цицерона «О пределах добра и зла»,<br>
-	написанного в 45 году до н. э. на латинском языке,</br>
-	обнаружение сходства приписывается Ричарду МакКлинтоку.
-	
-	</p>-->
 <!--	<img src='img/back_plane.png' alt='' width=''>-->
 <div class='box'>
 	<a href='#' class='journeys'>EXCITING JOURNEYS...</a>
@@ -283,7 +260,6 @@ abroad<br>
 			
 		</div>
 		<ul class=''>
-		<!--man -->
 			<li class='persent'><img class='man' alt='' src='img/man.png' width='148'></li>
 			
 		</ul>
@@ -304,7 +280,6 @@ abroad<br>
 			</div>
 		</div>
 		
-				
 	</div>
 <h3 class='title_reviews'>Reviews on social networks</h3>
 	<div class='comp_monitor_02'>
@@ -324,7 +299,7 @@ abroad<br>
 		
 		<div class='comp_monitor_02_finger'>
 			<!-- Finger -->
-			<img class='finger' alt='' src='img/fin.png' width='95'>
+			<img class='finger' alt='' src='img/fin.png' width='100'>
 			
 		</div>
 		
@@ -338,29 +313,16 @@ abroad<br>
 					</p>
 			</li>
 		</ul>
-		<!--hemisphere-->
-<div class='hemisphere'>
-			<img src='img/logo01.png' alt=' ' width='190'>
-		</div>
-</div>
+	</div>
 
 </section>
 <h3 class='title_reviews_three'>The most interesting sights</h3>
 
 <section class='keyboard'>
-	<div class='yellow_badge'>
-	<img src='img/badge02.png' class='' alt=' ' width='120'>
-	<h2 class='title_keyboard'>travelers<br> PLAN<br> their travels on<br> our site</h2>
-	</div>
+	<h2 class='title_keyboard'>keyboard</h2>
 	<!--	<div class='tree_palm'></div>-->
 </section>
 
-<section class='yellow'>
-	
-	<img src='img/badge_s.png' class='yellow_badge_small' alt=' ' width='100'>
-	<h2 class='title_yellow'>Travelers PLAN their travels on our site </h2>
-
-</section>
 
 <footer class='footer'>
 	<p>For custom research studies and infographics, a lot of other designer project

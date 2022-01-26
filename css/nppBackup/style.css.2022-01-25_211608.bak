@@ -90,18 +90,20 @@ section.second{/*second block*/
 .expedia_box{
 	display: flex;
 	justify-content: center;
-	
+	/* border: 1px dashed red; */
 }
 .expedia{font-size: 48pt;padding: 3px;/* border: 1px solid red; *//* font-weight: bold; */}
 .yapra_box{
 	display: flex;
 	flex-direction: column;
+	/* border: 1px dashed olive; */
 	/* padding: 3px; */
 	font-size: 18pt;
 	vertical-align: center;
 }
 .yapra_box_small{
 	font-size: 23pt;
+	/* border: 1px dashed orange; */
 	/* padding: 2px 0 0; */
 }
 
@@ -120,6 +122,7 @@ box-sizing: border-box; color: #fff;}
 
 img.main_logo{
 	display: block;
+	/* border: 1px dashed red; */
 	padding: 5px 5px;
 }
 	
@@ -443,19 +446,8 @@ h2.title_keyboard{margin: 0px 0 0 10px;padding: 2px 47px 1px; color: white;text-
 .top_mar{margin-top: 2px;}
 .yellow{ display: none;}
 .yellow_badge{display: flex;flex-direction: column;/* justify-content: center; *//* align-content: center; */align-items: center;width: 200px;margin: 18px 0 0;}
-.title_movement_people{font-size: 12pt;padding: 10px 20px;color: #1f3192;
-font: 14pt Roboto-Regular, sans-serif;
-/*
-filter:
- drop-shadow(1px 1px 1px #ffffff)
- drop-shadow(1px 1px 2px #ffffff);*/
-background: rgb(215,215,216);
-background: linear-gradient(90deg, rgba(215,215,216,1) 0%, rgba(250,249,248,0.7462141058418188) 33%, rgba(251,251,253,0) 100%);
- 
- }
-
-
-
+.title_movement_people{ font-size: 12pt; padding: 10px 10px; color: silver;
+font-family: Arial;}
 /*
 1080px
 

@@ -12,13 +12,6 @@
 <div class='wrapper'>
 <header class='header'>
 	<img src='img/logo_small.png' alt='logo' width='200' class='logo_small'>
-<!--
-<h2 class='title_movement_people'>
-Movement of people between distant geographical locations.<br>
-Travel can be done by automobile, train, boat, bus, airplane, ship<br>
-or other means, with or without luggage.
-</h2>
--->
 </header>
 
 <section class='background'>
@@ -28,12 +21,9 @@ or other means, with or without luggage.
 		<img src='img/logo.png' alt='logo' width='200' class='main_logo'>
 	</a>
 	</h2>
-
-<h2 class='title_movement_people'>
 Movement of people between distant geographical locations.<br>
 Travel can be done by automobile, train, boat, bus, airplane, ship<br>
-or other means, with or without luggage.
-</h2>
+or other means, with or without luggage, and can be one way or round trip.
 
 <!--
 	<p>

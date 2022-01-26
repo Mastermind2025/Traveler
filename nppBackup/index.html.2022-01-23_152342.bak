@@ -12,13 +12,6 @@
 <div class='wrapper'>
 <header class='header'>
 	<img src='img/logo_small.png' alt='logo' width='200' class='logo_small'>
-<!--
-<h2 class='title_movement_people'>
-Movement of people between distant geographical locations.<br>
-Travel can be done by automobile, train, boat, bus, airplane, ship<br>
-or other means, with or without luggage.
-</h2>
--->
 </header>
 
 <section class='background'>
@@ -27,15 +20,7 @@ or other means, with or without luggage.
 	<!--main logo -->
 		<img src='img/logo.png' alt='logo' width='200' class='main_logo'>
 	</a>
-	</h2>
-
-<h2 class='title_movement_people'>
-Movement of people between distant geographical locations.<br>
-Travel can be done by automobile, train, boat, bus, airplane, ship<br>
-or other means, with or without luggage.
-</h2>
-
-<!--
+	</h2><!--
 	<p>
 	Lorem ipsum — классический текст-«рыба».<br>
 	Является искажённым отрывком из философского трактата<br>
@@ -348,17 +333,12 @@ abroad<br>
 <h3 class='title_reviews_three'>The most interesting sights</h3>
 
 <section class='keyboard'>
-	<div class='yellow_badge'>
-	<img src='img/badge02.png' class='' alt=' ' width='120'>
-	<h2 class='title_keyboard'>travelers<br> PLAN<br> their travels on<br> our site</h2>
-	</div>
+	<h2 class='title_keyboard'><img src='img/badge.png' class='badge' alt=' ' width='190'></h2>
 	<!--	<div class='tree_palm'></div>-->
 </section>
 
 <section class='yellow'>
-	
-	<img src='img/badge_s.png' class='yellow_badge_small' alt=' ' width='100'>
-	<h2 class='title_yellow'>Travelers PLAN their travels on our site </h2>
+	<img src='img/badge_s.png' alt=' ' width='100'>
 
 </section>
 
