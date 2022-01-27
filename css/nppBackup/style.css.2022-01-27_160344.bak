@@ -257,7 +257,7 @@ section.section_with_palm{
 	}
 .palm_left_title{color: white;background: maroon;padding: 15px 25px;margin-left: 15px;}	
 
-.li_with_text_palm{font-size: 21pt;padding: 7px 0 7px 31px;}
+.li_with_text_palm{font-size: 24pt;padding: 7px 0 7px 31px;}
 
 .block_foreign_tourist{
 	background-image: url('../img/red02.png');
@@ -293,13 +293,13 @@ h2.title_red {
     margin: 13px 0 16px;
     box-sizing: border-box;
     color: #fff;
-    font: 14pt Roboto-Regular, sans-serif;
+    font: 16pt Roboto-Regular, sans-serif;
 }
 .flex_text{display: flex;justify-content: center;flex-direction: column;flex-wrap: wrap;align-items: center;}
 
 div.box_transparent{/* border: 6px olive dashed; */width: 77%;/* padding: 15px; *//* background: #fcfbfba1; *//* padding: 17px 21px; *//* margin: 9px 0 31px 0; */}
 
-.item_buildings{font-size: 20pt;padding: 0 0 0 16px;}
+.item_buildings{font-size: 22pt;padding: 0 0 0 16px;}
 .persent{font-size: 16pt;display: flex;justify-content: center;flex-direction: column;flex-wrap: wrap;align-items: center;}
 .red_image{ padding: 10px 10px; display: flex; justify-content: center; flex-direction: column; flex-wrap: wrap;}
 .red_image_02{padding: 10px 30px 10px; display: flex; justify-content: center; flex-direction: column; flex-wrap: wrap;}
@@ -460,9 +460,6 @@ background: rgb(215,215,216);
 background: linear-gradient(90deg, rgba(215,215,216,1) 0%, rgba(250,249,248,0.7462141058418188) 33%, rgba(251,251,253,0) 100%);
  
  }
- h2.title_green{
-    font: 14pt Roboto-Regular, sans-serif;
- }
 
 
 
@@ -496,14 +493,18 @@ header.header{
 	box-sizing: border-box;
 	display: block;
 }
-
+.journeys{
+	color: white;
+	/* font: 12pt Roboto-Regular, sans-serif; */
+	/* margin: 110px 0 0 0px; */
+	padding: 20px 33px 10px 23px;
+	/* background: #041ca4; */
+	/* height: 28px; */
+	font-size: 14pt;
+}
 .bold_type{ font-weight: bold;}
 .expedia{font-size: 30pt;}
-.airplaines_box h2{background: #1c2556;
-padding: 14px 14px;margin: 5px 0;
-box-sizing: border-box;
-font-size: 14pt;
-}
+.airplaines_box h2{background: #1c2556;padding: 14px 14px;margin: 5px 0;box-sizing: border-box;}
 
 
 img.people{/* background: maroon; */width: 100%;}
@@ -526,13 +527,13 @@ div.box_with_finger {
 }
 .p_tourists {
     margin: -2px 0 112px 143px;
-    font-size: 17pt;
+    font-size: 19pt;
 }
 h2.margin_top {margin-top: 40px;}
-h2.margin_top{margin-top: 7px;/* color: red; */font-size: 14pt;}
+h2.margin_top{margin-top: 7px;/* color: red; */}
 
 div.box_transparent{width: 90%;}
-.li_with_text_palm{font-size: 17pt;padding: 5px 0 5px 31px;}
+.li_with_text_palm{font-size: 20pt;padding: 5px 0 5px 31px;}
 
 ul.ul_Travel{margin-top: 3px;}
 
@@ -551,7 +552,7 @@ section.section_with_buildings{
 	height: 710px;
 	}
 	.tree_palm{ display: none; 	}	
-	.item_buildings{font-size: 15pt;padding: 0 0 0 16px;}
+	.item_buildings{font-size: 20pt;padding: 0 0 0 16px;}
 	img.man{ display: none; }
 	div.baloon_pers_01,
 	div.baloon_pers_02
@@ -611,41 +612,8 @@ padding: 1px 184px 1px 0;
 section.second h2 {
       font-size: 14pt;
 }
-.palm_left_title,
-.inspect{ font-size: 14pt;}
-.journeys{
-	color: white;
-	/* font: 12pt Roboto-Regular, sans-serif; */
-	/* margin: 110px 0 0 0px; */
-	padding: 11px 33px 5px 23px;
-	/* background: #041ca4; */
-	/* height: 28px; */
-	font-size: 14pt;
-}
-h2.title_red {font: 14pt Roboto-Regular, sans-serif;padding: 13px 25px;}
-h3.title_reviews{
-   font: 14pt Roboto-Regular, sans-serif;
-   padding: 13px 15px;
-}
-h3.title_reviews_three{
-    font: 14pt Roboto-Regular, sans-serif;
-    padding: 11px 29px;
-}
-.green_box_right_first{
-    font-size: 15pt;
-	font-weight: bold;
-}
-.green_box_l p{font-size: 16pt;line-height: 27px;}
-.text_p {font-size: 15pt;line-height: 27px;flex-wrap: wrap;display: flex;}	
-h2.title_green{
-    font: 14pt Roboto-Regular, sans-serif;
-    padding: 13px 23px;
- }
- 
- 
- 
- 
- 
+	
+
 }
 
 /* media 690*/
@@ -675,8 +643,8 @@ background-repeat: no-repeat;}
 .journeys{
 	color: white;
 	margin: 110px 0 0 0px;
-	padding: 11px 10px 5px 11px;
-	font-size: 13pt;
+	padding: 16px 10px 12px 11px;
+	
 }
 .expedia{font-size: 32pt;padding: 5px;}
 .yapra_box{
@@ -726,7 +694,7 @@ h2.margin_top {margin-top: 4px;}
     margin: -2px 0 112px 143px;
     font-size: 19pt;
 }
-.li_with_text_palm{font-size: 17pt;padding: 6px 0 6px 31px;}
+.li_with_text_palm{font-size: 20pt;padding: 7px 0 7px 31px;}
 section.section_with_palm{
 	width: 100%;
 	border: 2px dashed black;
@@ -743,11 +711,11 @@ section.section_with_palm{
 	.tree_palm{ display: none; 	}	
 	h3.title_reviews{
     background: #76bc24;
-    padding: 10px 11px 10px 25px;
+    padding: 15px 11px 16px 25px;
     margin: 5px 500px 0 48px;
     box-sizing: border-box;
     color: #fff;
-    font: 15pt Roboto-Regular, sans-serif;
+    font: 17pt Roboto-Regular, sans-serif;
     width: 70%;
 }
 .comp_monitor{	margin: 25px 240px 13px 1px;}
@@ -764,18 +732,6 @@ div.green_box_l_box:nth-child(2){margin-top: 11px;}
 div.green_box_l_box:nth-child(3){margin-top: 11px;}	
 .start_center{ }
 .top_mar{margin-top: 10px;}
-h2.title_red {font: 14pt Roboto-Regular, sans-serif;padding: 10px 25px;}
-h2.title_green{
-    font: 14pt Roboto-Regular, sans-serif;
-    padding: 13px 23px;
- }
- h2.title_green{
-    font: 14pt Roboto-Regular, sans-serif;
-    padding: 10px 23px;
- }
- img.people{/* background: maroon; */width: 70%;}
- img.baloon{/* background: maroon; */width: 88%;}
-
 /*
 
 

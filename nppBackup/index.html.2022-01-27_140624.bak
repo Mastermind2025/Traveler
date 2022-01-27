@@ -350,7 +350,7 @@ abroad<br>
 <section class='keyboard'>
 	<div class='yellow_badge'>
 	<img src='img/badge02.png' class='' alt=' ' width='120'>
-	<h2 class='title_keyboard'>travelers<br><b>PLAN</b><br> their travels on<br> our site</h2>
+	<h2 class='title_keyboard'>travelers<br><i>PLAN</i><br> their travels on<br> our site</h2>
 	</div>
 	<!--	<div class='tree_palm'></div>-->
 </section>
@@ -358,7 +358,7 @@ abroad<br>
 <section class='yellow'>
 	
 	<img src='img/badge_s.png' class='yellow_badge_small' alt=' ' width='100'>
-	<h2 class='title_yellow'>Travelers<b> PLAN</b> their travels on our site </h2>
+	<h2 class='title_yellow'>Travelers<b>PLAN</b> their travels on our site </h2>
 
 </section>
 

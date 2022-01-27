@@ -257,7 +257,7 @@ section.section_with_palm{
 	}
 .palm_left_title{color: white;background: maroon;padding: 15px 25px;margin-left: 15px;}	
 
-.li_with_text_palm{font-size: 21pt;padding: 7px 0 7px 31px;}
+.li_with_text_palm{font-size: 24pt;padding: 7px 0 7px 31px;}
 
 .block_foreign_tourist{
 	background-image: url('../img/red02.png');
@@ -299,7 +299,7 @@ h2.title_red {
 
 div.box_transparent{/* border: 6px olive dashed; */width: 77%;/* padding: 15px; *//* background: #fcfbfba1; *//* padding: 17px 21px; *//* margin: 9px 0 31px 0; */}
 
-.item_buildings{font-size: 20pt;padding: 0 0 0 16px;}
+.item_buildings{font-size: 22pt;padding: 0 0 0 16px;}
 .persent{font-size: 16pt;display: flex;justify-content: center;flex-direction: column;flex-wrap: wrap;align-items: center;}
 .red_image{ padding: 10px 10px; display: flex; justify-content: center; flex-direction: column; flex-wrap: wrap;}
 .red_image_02{padding: 10px 30px 10px; display: flex; justify-content: center; flex-direction: column; flex-wrap: wrap;}
@@ -629,7 +629,7 @@ h3.title_reviews{
 }
 h3.title_reviews_three{
     font: 14pt Roboto-Regular, sans-serif;
-    padding: 11px 29px;
+    padding: 13px 29px;
 }
 .green_box_right_first{
     font-size: 15pt;
@@ -773,8 +773,6 @@ h2.title_green{
     font: 14pt Roboto-Regular, sans-serif;
     padding: 10px 23px;
  }
- img.people{/* background: maroon; */width: 70%;}
- img.baloon{/* background: maroon; */width: 88%;}
 
 /*
 
