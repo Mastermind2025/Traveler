@@ -31,11 +31,16 @@ header.header{
 .text_small_02{ display: none;}
 .text_small_01{ display: block;}
 .avocado{
-	height: 60px;
-	margin: 109px 12px 0px;
-	font-size: 14pt;
-	font-weight: bolder;
-	color: #3349c3;
+	
+height: 60px;
+	
+margin: 109px 12px 0px;
+	
+font-size: 14pt;
+	
+font-weight: bolder;
+	
+color: #3349c3;
 }
 a.color_01{color: #6b39c3;}
 a.color_02{color: #1c309d;font-weight: bold;}
@@ -784,7 +789,7 @@ h2.title_green{
 */
 }/*end 690*/
 
-@media screen and (max-width: 1280px){
+@media screen and (max-width: 1300px){
 	
 	div.hemisphere{ display: none;  }
 	
